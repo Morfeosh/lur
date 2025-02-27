@@ -24,7 +24,7 @@
     "arma2": "Baston"
   },
   {
-    "nick": "enjoyits",
+    "nick": "Enjoyits",
     "clase": "Tanque",
     "arma1": "Espadon",
     "arma2": "Espada/escudo"
@@ -34,18 +34,6 @@
     "clase": "Rango DPS",
     "arma1": "Baston",
     "arma2": "Arco"
-  },
-  {
-    "nick": "test",
-    "clase": "Tanque",
-    "arma1": "Espadon",
-    "arma2": "Baston"
-  },
-  {
-    "nick": "test2",
-    "clase": "Sanador",
-    "arma1": "Arco",
-    "arma2": "Varita"
   },
   {
     "nick": "Draconidas",
