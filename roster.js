@@ -530,4 +530,4 @@ client.on('interactionCreate', async interaction => {
 });
 
 // Iniciar el bot
-client.login('MTMyODM3MDc2NTc2NjIwMTUwNw.G1qgCh.PxWQsFDWoIum3IVOeD-MxvvdS_ixd_ptfS2g6I'); // Reemplaza con tu token de Discord
+client.login(''); // Reemplaza con tu token de Discord
